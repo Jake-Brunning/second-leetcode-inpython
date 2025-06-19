@@ -60,6 +60,8 @@ class Solution:
         return candies
 
 
+    
+
     def getLowestValue(self, list: list[int]) -> int:
         lowestValue = list[0]
         lowestIndex = 0
