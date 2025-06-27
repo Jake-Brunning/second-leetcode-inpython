@@ -20,7 +20,7 @@ class Solution:
             #change to the smallest value
     
         def boolToNum(self, bool):
-            if(bool):
+            if(bool):l
                 return 1
             else:
                 return -1
